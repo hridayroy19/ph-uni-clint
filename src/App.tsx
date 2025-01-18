@@ -1,11 +1,8 @@
 import "./App.css";
+import MainLayout from "./components/layout/MainLayout";
 
 function App() {
-  return (
-    <>
-      <h1>Vite + React</h1>
-    </>
-  );
+  return <MainLayout/>
 }
 
 export default App;
