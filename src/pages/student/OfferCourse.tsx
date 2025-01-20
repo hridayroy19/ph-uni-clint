@@ -3,7 +3,7 @@ import React from 'react';
 const OfferCourse = () => {
     return (
         <div>
-            ddddd
+            ddddd update
         </div>
     );
 };
